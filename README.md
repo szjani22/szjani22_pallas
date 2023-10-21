@@ -5,3 +5,4 @@
 # konfliktus vs code ujra
 # tesztkornyezet
 # pallas brench teszt
+# gyakorlas
