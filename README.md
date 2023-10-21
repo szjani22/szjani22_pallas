@@ -1,0 +1,1 @@
+# szjani22_pallas
