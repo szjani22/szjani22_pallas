@@ -6,3 +6,4 @@
 # tesztkornyezet
 # pallas brench teszt
 # gyakorlas
+#gyakorlas teszt
